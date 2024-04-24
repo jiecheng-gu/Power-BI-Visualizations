@@ -7,3 +7,6 @@
 ![Page 1](https://github.com/jiecheng-gu/Power-BI-Visualizations/assets/46583405/f5b20f5b-64ec-4cfd-a8c9-13b052b4ec61)
 
 * **Page 1 - By Manufacturer**
+  
+![Page 2](https://github.com/jiecheng-gu/Power-BI-Visualizations/assets/46583405/89353764-3d86-4541-9c3a-be8514b61b3d)
+
