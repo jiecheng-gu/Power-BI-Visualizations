@@ -1,5 +1,6 @@
 # Power BI Training Session: Dashboard In A Day
 
-Report Link: 
+Report Link: https://app.powerbi.com/reportEmbed?reportId=d396de50-29da-4b80-b265-2e72b668a1c1&autoAuth=true&ctid=4cf28073-7c1e-498c-8f0f-447931cd3b9d
 
-https://app.powerbi.com/view?r=eyJrIjoiM2M5NmRjZjUtNGJkMi00YzRhLTkxYTktMGJiMWM2NWFlZTJkIiwidCI6IjRjZjI4MDczLTdjMWUtNDk4Yy04ZjBmLTQ0NzkzMWNkM2I5ZCJ9
+Page 1
+Page 2 
